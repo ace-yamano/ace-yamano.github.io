@@ -20,7 +20,7 @@ IT業界で苦節３５年。大型汎用機からPCまでいろいろなもの�
 - [テクのまど](https://technomado.jp/)
 
 # Contact
-- [LinkedIn](www.linkedin.com/in/ace-yamano)
+- [LinkedIn](https://www.linkedin.com/in/ace-yamano)
 - [Mail](mailto:amks_family@ybb.ne.jp)
 
 # History
