@@ -1,5 +1,8 @@
 ![私の聖地](IMG_1419.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qtbcxnqdtS0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 # About
 
 IT業界で苦節３５年。大型汎用機からPCまでいろいろなものに携わってきました。  
