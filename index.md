@@ -4,6 +4,8 @@
 
 <a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/tsushin_ace?ref_src=twsrc%5Etfw">Tweets by tsushin_ace</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<iframe src="https://www.openprocessing.org/sketch/928381/embed/" width="400" height="300"></iframe>
+
 # About
 
 IT業界で苦節３５年。大型汎用機からPCまでいろいろなものに携わってきました。  
